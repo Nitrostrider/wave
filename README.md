@@ -7,6 +7,7 @@ If you don't want to add
 <div></div> 
 ```
 before and after the wave, you can adjust the margin of .holdholdthewave
+
 Play around with adjusting the margin-top and margin-bottom with multiples of 26ish px
 
 For color of the wave animation, you will have to change both the svg file and wave.css
